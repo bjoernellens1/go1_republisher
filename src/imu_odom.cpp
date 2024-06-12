@@ -2,7 +2,7 @@
 #include <sensor_msgs/Imu.h>
 #include <nav_msgs/Odometry.h>
 #include <tf/transform_broadcaster.h>
-#include "unitree_legged_sdk/unitree_legged_sdk.h"
+#include "unitree_legged_sdk/include/unitree_legged_sdk/unitree_legged_sdk.h"
 #include <chrono>
 #include <pthread.h>
 
